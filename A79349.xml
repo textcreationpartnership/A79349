@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the preventing of the exportation of wools, wool-fells, woollen-yarn, fullers-earth, and other scouring earths, out of this kingdom</title>
+            <title>Proclamations. 1660-09-15</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79349</idno>
+            <idno type="STC">Wing C3500</idno>
+            <idno type="STC">Thomason 669.f.26[5]</idno>
+            <idno type="STC">ESTC R210767</idno>
+            <idno type="EEBO-CITATION">99896897</idno>
+            <idno type="PROQUEST">99896897</idno>
+            <idno type="VID">135436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2457:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the preventing of the exportation of wools, wool-fells, woollen-yarn, fullers-earth, and other scouring earths, out of this kingdom</title>
+                  <title>Proclamations. 1660-09-15</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Given at our court at Whitehal the fifteenth day of September, in the twelfth year of our reign, 1660.</note>
+                  <note>Arms 62; Steele notation: of  We  2) Wool-  3) Pre- due.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:135436:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION For the preventing of the Exportation of Wools, Wool-Fells, Woollen-Yarn, Fullers-Earth, and other Scouring Earths, out of this Kingdom.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>ORASMVCH as the making of Woollen-Cloth, and other Manufactures of Wool, which hath beén, and is the great Staple-Trade of this Kingdom, (where<g ref="char:EOLhyphen"/>by the Commerce of this Kingdom, and many thouſand Families therein have beén, and are principally maintained and upheld) hath nevertheleſs of late years beén much impaired and decayed; And whereas it is apparent, That the Expor<g ref="char:EOLhyphen"/>tation of Wools, Wool-fells, Yarn made of Wool, Fullers-Earth, and other ſcouring Earths, are a great means and occaſion of ſuch decay of the ſaid Trade, by enabling the Foreign making of Cloth, and thereby hindering the Vent of Our Clothes made within this Our Realm of <hi>England:</hi>
+            </p>
+            <p>We taking into Our Princely conſideration, the weighty conſequence thereof; and deſiring to advance the Wealth of Our People, and to provide an effectual remedy againſt ſuch a grow<g ref="char:EOLhyphen"/>ing evil, at the humble requeſt of the Lords and Commons in Parliament aſſembled, have thought fit, and
+<pb facs="tcp:135436:2"/>
+               <!-- PDF PAGE 17 -->
+do by this Our Proclamation, ſtreightly charge, prohibite, and command, That no manner of Wools, Wool-fells, Yarn made of Wooll, Fullers-earth, or other ſcouring Earths whatſoever, be at any time or times hereafter, by any perſon or perſons, whether natural born Subject, Denizen, or Stranger, exported, tranſported, or ſent out of this Our Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> or the Town or Port of <hi>Berwick</hi> upon <hi>Twede,</hi> or any the Iſles, Ports, Creéks, or places thereof, into the Kingdom of <hi>Scotland,</hi> or into any Foreign parts beyond the Seas, upon pain of Our higheſt indignation, and the ſevere Penalties that by the Laws and Statutes of this Our Realm may be inflicted as well upon the Offenders themſelves, as their Aiders, Procurers, Abettors, and Favorers:</p>
+            <p>And to the end, that all Cuſtomers, Officers, and Miniſters, in or about the Ports of <hi>England,</hi> may more ſtrictly look to the obſervance of Our Will and Pleaſure hereby ſignified, for the benefit and advantage of this Our Kingdom; We do hereby further ſtreightly charge and command, That if any Officer or Miniſter of or belonging to Our Cuſtoms or Ports, or attending at any the Havens, Creéks, or places adjacent, or car<g ref="char:EOLhyphen"/>rying to the Sea, ſhall conſent or connive at the unlawful Exportation of the Premiſſes, or any of them; that then every ſuch Cuſtomer, Officer, or Miniſter, who ſhall offend in any of the Premiſſes, ſhall not onely forfeit his Office, place, and employment, but ſhall alſo incur all other the pains and penalties aforeſaid. And if any Miniſter or Officer of or in any Ship or other Veſſel, ſhall permit and ſuffer any Woolls, Wool-Fells, or any other of the Premiſſes to be tranſported in any Ship, Bottom, or other Veſſel wherein or whereof he ſhall be Maſter or other Officer, That then every perſon ſo offending ſhall be ſubject to ſuch pain and penalty as aforeſaid.</p>
+            <p>And We do hereby further command and enjoyn, That not any more or greater quantity of Wooll-Fells, Woollen-Yarn, Fullers-Earth, or other ſcouring Earths, be ſent or conveyed into the Iſlands of <hi>Jerſey, Guernſey, Sarck,</hi> or <hi>Alderney,</hi> other then the proportions of Wooll following, <hi>viz.</hi> Two thouſand Tod for <hi>Jerſey,</hi> One thouſand Tod for <hi>Guernſey,</hi> Two hundred Tod for the Iſle of <hi>Alderney,</hi> and One hundred Tod for the Iſle of <hi>Sarck,</hi> which is to be employed for the uſe and manufacture of the ſaid Iſlands.</p>
+            <p>And for the better and more certain execution of this Our Will and Pleaſure, We do hereby likewiſe command, That no tranſportation of any Wooll, Wool-Fells, or other the Premiſſes, be permitted into the ſaid Iſlands, but upon good Bonds, with ſufficient Sureties, reſponſal and reſident within this Realm; for whoſe ſufficiency, the Officers of Our Cuſtoms taking the ſame Bonds, will be anſwerable for the land<g ref="char:EOLhyphen"/>ing of the ſame. In which Bonds the number and weight of the Bags or Sacks of Wool, the number of Wool-Fells, and weight of Woollen-Yarn, the quantity of Fulling Earth, and other ſcouring Earth ſhall be ſet down. And the Governors and other Officers upon the ſaid Iſlands, are hereby required and ſtreight<g ref="char:EOLhyphen"/>ly enjoyned to take ſpecial care, That what Wooll, Wool-Fells, Woollen-Yarn, Fulling, or other ſcouring Earths, ſhall be ſo landed, be not reſhipped thence into any Foreign parts.</p>
+            <p>And for the better regulating of ſo much of the aforeſaid Premiſſes as ſhall be permitted to be tranſport<g ref="char:EOLhyphen"/>ed to the aforeſaid Iſlands, We do further ſtreightly charge and command, That the ſame and every part thereof be ſhipped onely at Our Ports of <hi>Southampton, Weymouth,</hi> or <hi>Pool,</hi> and from no other Port, Haven, Crak, or place whatſoever. And in caſe there be now in force any former Licences or Authorities hereto<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:135436:3"/>
+               <!-- PDF PAGE 18 -->
+given and granted by any of Our Predeceſſors for Tranſportation of Woolls, or any other the Pre<g ref="char:EOLhyphen"/>miſſes, We do hereby diſannul the ſame, and are reſolved that none ſuch ſhall be by Vs granted for the future.</p>
+            <p>Laſtly, For the better encouragement of all ſuch as ſhall take care and pains to diſcloſe or make diſcovery of the frauds and other practices to evade and defeat the true intention of this Our Proclamation, Our further will and pleaſure is, That every ſuch perſon that ſhall be the firſt diſcoverer of ſuch Offender, ſhall be rewarded with the moyety, or one half of ſuch ſums of money, and other forfeiture as ſhall come unto Vs, by reaſon of any the offences aforeſaid: Giving alſo charge and command, that all perſons of what degreé, quality, or place ſoever, to whom it ſhall appertain, do diligently obſerve, and readily aſſiſt the due performance of this Our Proclamation in all things.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehal</hi> 
+                  <date>the Fifteenth day of <hi>September,</hi> in the Twelfth year of Our Reign, 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KINGS moſt Excellent Majeſty. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
